@@ -2,7 +2,7 @@
   
 <p>Passionnée par l'informatique, après avoir cuisiné et pâtissé quelques années je change aujourd'hui d'ingrédients pour concevoir des produits digitaux.</p>
 
-<link href="https://www.linkedin.com/in/segoleneganzin/" > Mon profil Linkedin </link>
+<a href="https://www.linkedin.com/in/segoleneganzin/" > Mon profil Linkedin </a>
 
 
 <!--
