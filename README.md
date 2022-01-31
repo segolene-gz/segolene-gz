@@ -1,9 +1,8 @@
-![cover](https://github.com/segoleneganzin/segoleneganzin/img/cover.jpg)
 <h1>Hi, i'm Ségolène !</h1>
   
 <p>Passionnée par l'informatique, après avoir cuisiné et pâtissé quelques années je change aujourd'hui d'ingrédients pour concevoir des produits digitaux.</p>
 
-<link href="https://www.linkedin.com/in/segoleneganzin/" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0osVQcblBhUadmcs7iFmZXdRR7iNA8QWJA&usqp=CAU" style="width:20px; height:20px"  /> </link>
+<link href="https://www.linkedin.com/in/segoleneganzin/" > Mon profil Linkedin </link>
 
 
 <!--
