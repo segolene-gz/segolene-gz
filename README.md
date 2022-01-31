@@ -1,3 +1,4 @@
+![cover](
 <h1>Hi, i'm Ségolène !</h1>
   
 <p>Passionnée par l'informatique, après avoir cuisiné et pâtissé quelques années je change aujourd'hui d'ingrédients pour concevoir des produits digitaux.</p>
