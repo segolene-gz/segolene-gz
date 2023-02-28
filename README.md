@@ -1,6 +1,6 @@
-#Hi, i'm Ségolène !
+<h1>Hi, i'm Ségolène !</h1>
   
-##👨‍🎓Développeuse informatique en formation 🚀
+<h2>👨‍🎓Développeuse informatique en formation 🚀</h2>
 BTS Services informatiques aux organisations, option Solutions Logicielles et Applications Métiers
 
 🎯 Concepteur Développeur d'Applications
