@@ -1,4 +1,4 @@
 # Développeuse Web 🚀
-BTS Services informatiques aux organisations, option Solutions Logicielles et Applications Métiers (Bac+2) <br>
-Développeuse d'application - JavaScript React (Bac+3/4)<br>
+BTS Services informatiques aux organisations, option Solutions Logicielles et Applications Métiers (Bac+2) <br><br>
+Développeuse d'application - JavaScript React (Bac+3/4)<br><br>
 <a href="https://www.linkedin.com/in/segoleneganzin/" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0osVQcblBhUadmcs7iFmZXdRR7iNA8QWJA&usqp=CAU" style="width:20px; height:20px"  /> </a>
