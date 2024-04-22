@@ -6,13 +6,14 @@
 </p>
 <hr>
 <h2>Some stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=segoleneganzin&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segoleneganzin&layout=compact" />
-
+<p style="display: flex; flex-wrap: wrap; justify-content: center;">>
+  <img src="https://github-readme-stats.vercel.app/api?username=segoleneganzin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segoleneganzin&layout=compact" />
+</p>
 <hr>
 <h2>Some tools I use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=codepen,figma,firebase,jest,notion,pnpm,postman,stackoverflow,vite,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=codepen,figma,firebase,jest,notion,pnpm,postman,stackoverflow,vite,vscode&perline=5" />
   </a>
 </p>
