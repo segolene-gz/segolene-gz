@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h2>Some stats</h2>
-<p style="display: flex; flex-wrap: wrap; justify-content: center;">>
+<p style="display: flex; flex-wrap: wrap; justify-content: center; align-item: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=segoleneganzin&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segoleneganzin&layout=compact" />
 </p>
