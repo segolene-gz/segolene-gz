@@ -1,7 +1,8 @@
 ![readme header](./img/banner.png)
 <h2>Some links</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/segoleneganzin/" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0osVQcblBhUadmcs7iFmZXdRR7iNA8QWJA&usqp=CAU" style="width:40px; height:40px"  /> </a> 
+  [![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0osVQcblBhUadmcs7iFmZXdRR7iNA8QWJA&usqp=CAU)]([https://skillicons.dev](https://www.linkedin.com/in/segoleneganzin/))
+ 
   <a href="https://codepen.io/segoleneGz" > <img src="https://cdn-icons-png.flaticon.com/512/1377/1377243.png" style="width:40px; height:40px"  /> </a> 
 </p>
 <hr>
