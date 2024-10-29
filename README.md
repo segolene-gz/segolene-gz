@@ -1,4 +1,4 @@
-![readme header](./img/banner.png)
+![readme header](./img/github_banner.png)
 <h2>Some links</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/segoleneganzin/" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0osVQcblBhUadmcs7iFmZXdRR7iNA8QWJA&usqp=CAU" style="width:40px; height:40px"  /> </a> 
